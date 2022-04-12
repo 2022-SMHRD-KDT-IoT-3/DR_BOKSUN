@@ -30,5 +30,5 @@
 ![image](https://user-images.githubusercontent.com/99382034/162860350-24fbdd59-9f4f-4649-a0a5-92924fa19269.png )
 
 ## 10.팀원단위 업무분장 및 결과표
+[DR_BOKSUN-TEAM.pdf](https://github.com/2022-SMHRD-KDT-IoT-3/DR_BOKSUN/files/8468862/DR_BOKSUN-TEAM.pdf)
 
-![image]( https://user-images.githubusercontent.com/99382034/162860431-93305ac7-dff6-4b3d-8c52-5e0b2c6569bf.png)
